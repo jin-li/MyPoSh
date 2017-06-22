@@ -271,4 +271,6 @@ Remove-Item alias:dir
 Remove-Item alias:ls
 Set-Alias dir Get-DirWithSize
 Set-Alias ls Get-DirWithSize
-
+Set-Alias 'git status' gs
+Set-Alias 'git add' ga
+Set-Alias 'git push original master' gp
