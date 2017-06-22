@@ -273,4 +273,4 @@ Set-Alias dir Get-DirWithSize
 Set-Alias ls Get-DirWithSize
 Set-Alias 'git status' gs
 Set-Alias 'git add' ga
-Set-Alias 'git push original master' gp
+Set-Alias 'git push origin master' gp
