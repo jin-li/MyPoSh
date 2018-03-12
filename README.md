@@ -22,5 +22,5 @@ Use Powerline-like configuration on PowerShell, final effect looks like:
     Set-ExectionPolicy RemoteSigned
     ```
 
-3. **Use This Configuration**
+3. **Use This Configuration**  
     Copy the script in this repository and substitute the one in "~\Documents\WindowsPowerShell". Restart PowerShell you will see the new theme.
